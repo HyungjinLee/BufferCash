@@ -1,0 +1,4 @@
+﻿  Application.cpp
+c:\users\my-pc\desktop\wp6_2014104136_이형진\simple\application.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  simple.vcxproj -> C:\Users\my-PC\Desktop\WP6_2014104136_이형진\Debug\simple.exe
+  simple.vcxproj -> C:\Users\my-PC\Desktop\WP6_2014104136_이형진\Debug\simple.pdb (Full PDB)
